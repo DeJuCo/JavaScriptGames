@@ -135,3 +135,7 @@ function checkWin(correction_Array) {
         init();
     }
 }
+function goToYouTube(){
+    window.location.href =
+"https://www.youtube.de";
+}
